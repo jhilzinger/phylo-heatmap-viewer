@@ -1,0 +1,7 @@
+streamlit
+biopython
+toytree
+matplotlib
+seaborn
+pandas
+numpy
